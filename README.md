@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> &nbsp;About Me</h2>
 I am an Electrical Engineering student and teaching assistant at University of Tehran. I am interested in artificial intelligence and machine learning models. Especially, Computer Vision and Natural Language Processing with applications to real life, and human-computer interactions.
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
