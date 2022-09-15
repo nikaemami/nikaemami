@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> 👩🏻‍💻 &nbsp;About Me</h2>
-I am an Electrical Engineering student and teaching assistant at University of Tehran. I am interested in artificial intelligence and machine learning models. Especially, Computer Vision and Natural Language Processing with applications to real life, and human-computer interactions.
+I am an Electrical Engineering student and teaching assistant at University of Tehran. My primary research interests are in the fileds of Machine Learning, Computer Vision, and Natural Language Processing.I am also interested in Reinforcement Learning and Human-Computer Interaction.
 <h2> 🚀 &nbsp;Languages and Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
