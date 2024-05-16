@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> 👩🏻‍💻 &nbsp;About Me</h2>
+<h2> 👩🏻‍💻 &nbsp;About me</h2>
 I am an Electrical Engineering PhD student at NYU. My primary research interests are in the fields of Deep Learning, Computer Vision, and Speech Processing.
 <h2> 🚀 &nbsp;Languages and Tools</h2>
 <p align="left">
