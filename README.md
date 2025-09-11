@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> 👩🏻‍💻 &nbsp;About me</h2>
-I am an Electrical Engineering PhD candidate at NYU. My primary research interests are in the fields of Deep Learning, Computer Vision, and Speech Processing.
+I am an Electrical Engineering PhD candidate at NYU. My primary research interests are in the fields of Deep Learning, Computer Vision, and Speech Processing. 
+
+Check out my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4yky47TAOHrPG4hAOw3yQpS0R-2RJpKJRidFIxnqnAXtWtEv-Xm1TXKV3OFtStyfWmOcolow3MQU6K-WgbWvnR6&user=cSZqdm0AAAAJ).
+
+
 <h2> 🚀 &nbsp;Languages and Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
