@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> 👩🏻‍💻 &nbsp;About me</h2> 
-I am an Electrical Engineering PhD student at NYU, Tandon School of Engineering. 
+I am an Electrical Engineering PhD candidate at NYU, Tandon School of Engineering. 
 
 My research focuses on deep learning for multimodal and graph-based learning, with applications in speech, vision, and neural decoding.
 
