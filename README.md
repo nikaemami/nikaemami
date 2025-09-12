@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> 👩🏻‍💻 &nbsp;About me</h2> 
-I am an Electrical Engineering PhD student at NYU, Tandon School of Engineering. My research focuses on deep learning for multimodal and graph-based learning, with applications in speech, vision, and neural decoding.
+I am an Electrical Engineering PhD student at NYU, Tandon School of Engineering. 
+
+My research focuses on deep learning for multimodal and graph-based learning, with applications in speech, vision, and neural decoding.
 
 Check out my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4yky47TAOHrPG4hAOw3yQpS0R-2RJpKJRidFIxnqnAXtWtEv-Xm1TXKV3OFtStyfWmOcolow3MQU6K-WgbWvnR6&user=cSZqdm0AAAAJ).
 
